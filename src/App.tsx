@@ -308,7 +308,7 @@ function App() {
     <main className="app-shell">
       <header className="topbar">
         <a className="brand" href="/">
-          <span>~</span> shrinkly
+          <span>~</span> converthium
         </a>
         <span className="privacy-note">Your files stay on your device</span>
       </header>
